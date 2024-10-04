@@ -6,3 +6,5 @@ Python is a very fun language to learn. I haven't learned too much, but I know h
 I think what went wrong was how it was intructed. The intructions on their own weren't too clear and I could see where some kids would struggle finding where things were considering the layout of this app/website. I think my only challenge was just creating the journal and accessing it. A way you could probably show how to do this better is by explaining where certain locations on Github is paired with screenshots of the layout with captions explaining what was going on in the picture.
 # September 20th, 2024
 It's a free week.
+# October 4th, 2024
+Using my computer for school work is one time where computer science comes into play. The computer science aspect comes into play when I use different website or pick different apps. Like when I use Google and search up something like Wikipedia, the program on Google will search for matching results based on what the input states. Then you click on the link, and the code in the search engine leads you to the website.
