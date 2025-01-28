@@ -18,7 +18,7 @@ I discovered that they've been testing augmented reality on creatures like bugs.
 3. I wouldn't say it'd be interest in anything computer science related, but I think it'd be cool to do in my free-time or as a hobby of sorts.
 # Janurary 27th, 2025
 | Name | Car | Mistake |
-| :--- | :---: | ---: |
+| :--- | :---: | :---: |
 | Jimmy | Honda Civic | Drilled Hole in Gas Tank |
 | Kayla | GMC Sierra | Fixed Wrong Problem |
 | Bart | Toyota Corolla | Left Stains on Carpet |
