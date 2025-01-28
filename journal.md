@@ -16,3 +16,10 @@ I discovered that they've been testing augmented reality on creatures like bugs.
 1. I mostly enjoy how calm this class is uually, but the people in here are usually pretty interesting to hang around. Plus my friends are in here, so it makes it more bearable. I wouldn't say a lot would need improvement aside from maybe noise levels in case kids (like me) have nois sensitivity? Other than that, the low lighting is great for ligth sensitivity and helps keeps the room pretty calm and relaxed feeling.
 2. I'd probably want to work on game mechanics or just text based games? Or perhaps something similar to pokemon? Something like that.
 3. I wouldn't say it'd be interest in anything computer science related, but I think it'd be cool to do in my free-time or as a hobby of sorts.
+# Janurary 27th, 2025
+| Name | Car | Mistake |
+| :--- | :---: | ---: |
+| Jimmy | Honda Civic | Drilled Hole in Gas Tank |
+| Kayla | GMC Sierra | Fixed Wrong Problem |
+| Bart | Toyota Corolla | Left Stains on Carpet |
+| Harrison | Subaru Forester | Left the Oil Cap Off |
