@@ -33,3 +33,5 @@ I discovered that they've been testing augmented reality on creatures like bugs.
 | Octagon | Red | 3 |
 # February 18th, 2025
 I learned about some of Donald Trump's executive orders from a comedian on YouTube, and also learned that Kendrick Lamar preform during halftime at the Super Bowl. I also learned some French on Duolingo for the last 18 days, including today. It's been real fun to learn the pronunciation and spelling conventions, amongst other things about it :D !!
+# May 19th, 2025
+I'm very much ready for the summer. Honestly, I'm hoping I get time to relax and hang out with my friends rather than worry about school.
