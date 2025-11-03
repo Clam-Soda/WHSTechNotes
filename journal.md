@@ -37,3 +37,15 @@ I learned about some of Donald Trump's executive orders from a comedian on YouTu
 I'm very much ready for the summer. Honestly, I'm hoping I get time to relax and hang out with my friends rather than worry about school.
 # September 2nd, 2025
 My thoughts on the cell phone law are mostly 50/50, as I can see both sides. I'm personally somewhat adjusted to the cell phone ban, but I'm a little upset that some teacher's I see use their phone while the students can't. Other difficulties I've seen have been not being able to use phone for things that specifically used to call for phones (like QR codes). The point of the law was to boost of the grades in the state, which I can understand, but shouldn't that mostly be up to the parents to enforce this to their kids instead of making the schools do it? I want to say it's a little flawed, but I'm not exactly the guys who agreed to pass this state law in Texas, so. However, I do feel like the law within schools should be a bit more lenient, with letting phones during lunch and passing period, as those aren't *active* learning hours and moreso free periods. Perhaps also letting kids use ohones for *music* and whatever intructional use the teacher states, since a lot of the reason kids have phones or headphones on are for music, apart from the ones who use it to text during class. I'm not really counting those ones. The law has gotten kids to focus and socialize, but it doesn't seem entirely that fair, in my opinion.
+# October 20th, 2025
+| Name | Class | Seat |
+| :--- | :---: | :---: |
+| Franklin | Second | 91A |
+| Hardeep | Third | 61F |
+| Marla | First | 35B |
+# October 27th, 2025
+| Name | Main Dish | Dessert |
+| :--- | :---: | :---: |
+| Fiona | Gado Gado | Creme Brulee |
+| Tobias | Shrimp Ceviche | French Apple Cake |
+| Leanne | Beef Wellington | Raspberry Tiramisu |
